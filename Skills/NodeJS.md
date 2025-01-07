@@ -1,44 +1,44 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js h
+  - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code h
-  - Event loop phases k
-  - Event loop microtasks and macrotasks k
-  - Garbage collection h
+  - Nonblocking I/O and blocking code: 👂 heard
+  - Event loop phases: 🎓 known
+  - Event loop microtasks and macrotasks: 🎓 known
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules u
-  - ECMAScript modules u
-  - Module `node:module` h
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
+  - Module `node:module`: 👂 heard
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` u
-  - Files `package.json`, `package-lock.json` u
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection h
+  - Dependency injection: 👂 heard
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments h
-  - Node.js CLI h
+  - Command line arguments: 👂 heard
+  - Node.js CLI: 👂 heard
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch k
+  - Watch filesystem changes with --watch: 🎓 known
 - Internal API
   - Streams API
   - Web Streams API
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async) u
+  - File system API (sync and async): 🖐️ used
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -55,7 +55,7 @@
   - BroadcastChannel
   - Generating crypto random UUID
   - Module `node:url` vs `new URL`
-  - Module `node:assert` h
+  - Module `node:assert`: 👂 heard
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
@@ -65,26 +65,26 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API u
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - HTTP(S) h
-  - TCP/SSL h
-  - UDP h
-  - TLS h
-  - Websocket h
+  - HTTP(S): 👂 heard
+  - TCP/SSL: 👂 heard
+  - UDP: 👂 heard
+  - TLS: 👂 heard
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST h
+  - REST: 👂 heard
   - RPC
-  - Routing u
+  - Routing: 🖐️ used
   - DoS
-  - DDoS h
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection h
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -103,25 +103,25 @@
   - Inspector
 - Data access
   - Data access layer
-  - Repository h
+  - Repository: 👂 heard
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD k
-  - DTO u
+  - CRUD: 🎓 known
+  - DTO: 🖐️ used
 - Error handling and debugging
-  - `Error` u
+  - `Error`: 🖐️ used
   - `error.cause`
   - `error.code`
-  - `error.message` u
-  - `error.stack` u
+  - `error.message`: 🖐️ used
+  - `error.stack`: 🖐️ used
   - `Error.captureStackTrace`
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks h
+  - Memory leaks: 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings
