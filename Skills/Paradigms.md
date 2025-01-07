@@ -2,22 +2,22 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming
+  - Imperative programming h
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming h
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming u
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
+  - Asynchronous programming k
+  - Parallel programming h
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming h
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,25 +27,25 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
+  - Constructor u
+  - Operator `new` u
+  - Static method k
+  - Method u
+  - Async method u
+  - Getters, Setters k
+  - Public fields u
+  - Private fields u
+  - Field declarations u
+  - Inheritance k
+  - Parent class k
+  - Polymorphism k
   - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - Instance
-  - Introspection
+  - Interface h
+  - Encapsulation k
+  - Hidden class h
+  - Object form h
+  - Instance k
+  - Introspection h
   - Reflection
   - The diamond problem
 - GRASP

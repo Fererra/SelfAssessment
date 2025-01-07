@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types h
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -18,15 +18,15 @@
   - In-memory databases
   - Inverted index
   - Data control language (DCL)
-  - Data definition language (DDL)
-  - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data definition language (DDL) k
+  - Data manipulation language (DML) u
+  - Data query language (DQL) u
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys u
+  - Foreign keys u
   - Transactions
   - Views
   - Subqueries
@@ -36,15 +36,15 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` u
+  - `INSERT` u
+  - `UPDATE` k
+  - `DELETE` k
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
+  - `ORDER BY` k
+  - `GROUP BY` k
+  - `HAVING` k
   - `EXISTS`
   - `JOIN`
   - `INNER JOIN`
@@ -52,17 +52,17 @@
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
+  - `WHERE` k
+  - `LIKE` k
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `CREATE TABLE` k
+  - `ALTER TABLE` k
+  - `DROP TABLE` k
+  - `PRIMARY KEY` k
+  - `FOREIGN KEY` k
   - `CHECK`
-  - `DEFAULT`
+  - `DEFAULT` k
   - `INDEX`
   - `UNIQUE`
   - `GRANT`
@@ -72,12 +72,12 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL k
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB k
   - Memcached
   - Riak
   - DB2

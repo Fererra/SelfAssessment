@@ -5,7 +5,7 @@
   - Components
   - Directories
   - GRASP
-  - SOLID
+  - SOLID h
   - GoF patterns
   - CQS
   - Leaking abstractions
@@ -33,7 +33,7 @@
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture
+  - Clean architecture h
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
