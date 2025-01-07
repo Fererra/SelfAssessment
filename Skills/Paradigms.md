@@ -1,23 +1,23 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming h
-  - Structured programming
+  - Procedural programming: 👂 heard
+  - Imperative programming: 🖐️ used
+  - Structured programming: 🖐️ used
   - Non-structured programming
-  - Functional programming h
-  - Prototype-based programming
-  - Object-oriented programming u
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming k
-  - Parallel programming h
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 👂 heard
+  - Generic programming: 👂 heard
+  - Concurrent computing: 👂 heard
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 👂 heard
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming h
+  - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,25 +27,25 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor u
-  - Operator `new` u
-  - Static method k
-  - Method u
-  - Async method u
-  - Getters, Setters k
-  - Public fields u
-  - Private fields u
-  - Field declarations u
-  - Inheritance k
-  - Parent class k
-  - Polymorphism k
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🎓 known
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🎓 known
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
+  - Polymorphism: 🎓 known
   - Abstract class
-  - Interface h
-  - Encapsulation k
-  - Hidden class h
-  - Object form h
-  - Instance k
-  - Introspection h
+  - Interface: 👂 heard
+  - Encapsulation: 🎓 known
+  - Hidden class: 👂 heard
+  - Object form: 👂 heard
+  - Instance: 🎓 known
+  - Introspection: 👂 heard
   - Reflection
   - The diamond problem
 - GRASP
@@ -58,21 +58,21 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
+  - Single-responsibility principle (SRP): 🎓 known
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Dependency inversion principle (DIP): 👂 heard
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton: 👂 heard
+  - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
   - Observer
   - Strategy
   - Facade
   - Proxy
-  - Chain of Responsibility
+  - Chain of Responsibility: 👂 heard
   - Command
   - Iterator
   - State
@@ -81,11 +81,11 @@
   - Prototype
   - Composite
   - Decorator
-  - Flyweight
+  - Flyweight: 👂 heard
   - Mediator
   - Memento
   - Template Method
   - Visitor
   - Reactor
   - Active object
-  - Delegation
+  - Delegation: 👂 heard

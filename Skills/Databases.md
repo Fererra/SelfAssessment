@@ -1,14 +1,14 @@
 ## Databases
 
 - Theory and concepts
-  - Data types h
+  - Data types: 👂 heard
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
-  - Key-value store
+  - Relational databases: 🎓 known
+  - Key-value store: 👂 heard
   - Tuple store
   - Graph databases
   - Object databases
@@ -18,15 +18,15 @@
   - In-memory databases
   - Inverted index
   - Data control language (DCL)
-  - Data definition language (DDL) k
-  - Data manipulation language (DML) u
-  - Data query language (DQL) u
+  - Data definition language (DDL): 🎓 known
+  - Data manipulation language (DML): 🖐️ used
+  - Data query language (DQL): 🖐️ used
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys u
-  - Foreign keys u
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
   - Transactions
   - Views
   - Subqueries
@@ -36,15 +36,15 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` u
-  - `INSERT` u
-  - `UPDATE` k
-  - `DELETE` k
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🎓 known
+  - `DELETE`: 🎓 known
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` k
-  - `GROUP BY` k
-  - `HAVING` k
+  - `ORDER BY`: 🎓 known
+  - `GROUP BY`: 🎓 known
+  - `HAVING`: 🎓 known
   - `EXISTS`
   - `JOIN`
   - `INNER JOIN`
@@ -52,17 +52,17 @@
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE` k
-  - `LIKE` k
+  - `WHERE`: 🎓 known
+  - `LIKE`: 🎓 known
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE` k
-  - `ALTER TABLE` k
-  - `DROP TABLE` k
-  - `PRIMARY KEY` k
-  - `FOREIGN KEY` k
+  - `CREATE TABLE`: 🎓 known
+  - `ALTER TABLE`: 🎓 known
+  - `DROP TABLE`: 🎓 known
+  - `PRIMARY KEY`: 🎓 known
+  - `FOREIGN KEY`: 🎓 known
   - `CHECK`
-  - `DEFAULT` k
+  - `DEFAULT`: 🎓 known
   - `INDEX`
   - `UNIQUE`
   - `GRANT`
@@ -72,12 +72,12 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL k
+  - MySQL: 🎓 known
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB k
+  - MongoDB: 🎓 known
   - Memcached
   - Riak
   - DB2
