@@ -146,22 +146,22 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter u
   - Polyfill
   - Interpreter k
-  - Linker
-  - Dynamic linking
-  - Static linking
+  - Linker h
+  - Dynamic linking h
+  - Static linking h
   - Runtime k
   - Virtual machine h
   - Register-based VM
   - Stack-based VM
-  - Containerization
+  - Containerization h
   - Debugger h
   - Tracing
   - Garbage collection
   - Refactoring u
-  - Code review
+  - Code review k
   - Exception u
   - Unittesting h
   - git u

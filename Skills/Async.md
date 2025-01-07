@@ -30,20 +30,20 @@
   - Future
   - Deferred
   - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Async Generator h
+  - Async Iterator h
   - Event h
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream h
   - Chain of responsibility
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
+  - callbackify h
+  - promisify h
+  - asyncify h
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
@@ -61,7 +61,7 @@
 - JavaScript & Node.js specific
   - Timers u
   - `setImmediate` k
-  - `nextTick`
+  - `nextTick` h
   - AbortController
   - AbortSignal
   - Promise unhandled rejection

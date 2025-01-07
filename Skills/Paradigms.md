@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming h
-  - Structured programming
+  - Procedural programming h
+  - Imperative programming u
+  - Structured programming u
   - Non-structured programming
-  - Functional programming h
-  - Prototype-based programming
+  - Functional programming u
+  - Prototype-based programming k
   - Object-oriented programming u
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming k
+  - Object-based programming h
+  - Generic programming h
+  - Concurrent computing h
+  - Asynchronous programming u
   - Parallel programming h
   - Reactive programming
   - Functional-reactive (FRP)
@@ -58,21 +58,21 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
+  - Single-responsibility principle (SRP) k
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Dependency inversion principle (DIP) h
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton h
+  - Factory Method h
   - Abstract Factory
   - Adapter
   - Observer
   - Strategy
   - Facade
   - Proxy
-  - Chain of Responsibility
+  - Chain of Responsibility h
   - Command
   - Iterator
   - State
@@ -81,11 +81,11 @@
   - Prototype
   - Composite
   - Decorator
-  - Flyweight
+  - Flyweight h
   - Mediator
   - Memento
   - Template Method
   - Visitor
   - Reactor
   - Active object
-  - Delegation
+  - Delegation h

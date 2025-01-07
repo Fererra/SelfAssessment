@@ -96,7 +96,7 @@
   - `WeakMap` h
   - `WeakSet` h
   - Typed arrays h
-  - Mixins
+  - Mixins h
   - `Object.assign` k
 - Standard classes and namespaces
   - `Proxy`
@@ -107,7 +107,7 @@
   - `Error` k
   - `Atomics`
   - `JSON` u
-  - `WeakRef`
+  - `WeakRef` h
   - `FinalizationRegistry`
   - `Intl`
   - `Promise` k

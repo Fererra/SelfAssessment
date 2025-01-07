@@ -7,8 +7,8 @@
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
-  - Key-value store
+  - Relational databases k
+  - Key-value store h
   - Tuple store
   - Graph databases
   - Object databases
